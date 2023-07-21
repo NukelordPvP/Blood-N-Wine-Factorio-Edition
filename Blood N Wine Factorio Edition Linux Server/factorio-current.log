@@ -1,0 +1,1350 @@
+   0.000 2023-07-16 20:59:09; Factorio 1.1.87 (build 61545, linux64, headless)
+   0.064 Operating system: Linux (Debian 11)
+   0.064 Program arguments: "/opt/factorio/bin/x64/factorio" "--start-server" "/opt/factorio/saves/crucifixion.zip" "--server-settings" "/opt/factorio/data/server-settings.json" 
+   0.064 Config path: /opt/factorio/config/config.ini
+   0.064 Read data path: /opt/factorio/data
+   0.064 Write data path: /opt/factorio [10036/24521MB]
+   0.064 Binaries path: /opt/factorio/bin
+   0.073 System info: [CPU: AMD EPYC-Milan Processor, 1 core, RAM: 975 MB]
+   0.074 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.074 Running in headless mode
+   1.128 Loading mod settings VehicleSnap 1.18.5 (settings.lua)
+   1.129 Loading mod settings WireShortcuts 1.1.13 (settings.lua)
+   1.129 Loading mod settings aai-containers 0.2.11 (settings.lua)
+   1.130 Loading mod settings AbandonedRuins 1.1.6 (settings.lua)
+   1.130 Loading mod settings Aircraft 1.8.6 (settings.lua)
+   1.131 Loading mod settings Arachnids 1.1.1 (settings.lua)
+   1.131 Loading mod settings AutoDeconstruct 0.3.8 (settings.lua)
+   1.131 Loading mod settings biterexpansionnotifier 1.0.0 (settings.lua)
+   1.132 Loading mod settings Brighter-Lamps 1.1.0 (settings.lua)
+   1.132 Loading mod settings death_curses 1.0.15 (settings.lua)
+   1.132 Loading mod settings enemyracemanager_assets 1.0.1 (settings.lua)
+   1.133 Loading mod settings Enhanced_Map_Colors 1.5.5 (settings.lua)
+   1.134 Loading mod settings even-distribution 1.0.10 (settings.lua)
+   1.134 Loading mod settings Fluid-level-indicator 0.6.1 (settings.lua)
+   1.134 Loading mod settings Gun_Turret_Alerts 1.1.11 (settings.lua)
+   1.135 Loading mod settings HelicopterRevival 0.2.2 (settings.lua)
+   1.135 Loading mod settings informatron 0.3.4 (settings.lua)
+   1.135 Loading mod settings jetpack 0.3.13 (settings.lua)
+   1.136 Loading mod settings Nuclear Fuel 1.1.5 (settings.lua)
+   1.136 Loading mod settings osm-lib 1.1.41 (settings.lua)
+   1.136 Loading mod settings RampantArsenal 1.1.6 (settings.lua)
+   1.137 Loading mod settings RealisticOres 7.101.0 (settings.lua)
+   1.138 Loading mod settings RealisticReactorGlow 1.101.7 (settings.lua)
+   1.138 Loading mod settings robot_attrition 0.5.15 (settings.lua)
+   1.138 Loading mod settings space-exploration-menu-simulations 0.6.8 (settings.lua)
+   1.139 Loading mod settings Squeak Through 1.8.2 (settings.lua)
+   1.139 Loading mod settings Todo-List 19.3.0 (settings.lua)
+   1.139 Loading mod settings TreeSaplings-Redux 1.0.6 (settings.lua)
+   1.139 Loading mod settings underwater-pipes 3.1.0 (settings.lua)
+   1.140 Loading mod settings aai-industry 0.5.20 (settings.lua)
+   1.141 Loading mod settings aai-programmable-structures 0.7.4 (settings.lua)
+   1.141 Loading mod settings alien-biomes 0.6.8 (settings.lua)
+   1.142 Loading mod settings BeltRouter 1.5.2 (settings.lua)
+   1.142 Loading mod settings cargo-ships 0.2.2 (settings.lua)
+   1.143 Loading mod settings combat-mechanics-overhaul 0.6.24 (settings.lua)
+   1.143 Loading mod settings equipment-gantry 0.1.5 (settings.lua)
+   1.144 Loading mod settings factorio-research-queue 0.5.7 (settings.lua)
+   1.144 Loading mod settings heroturrets 1.1.21 (settings.lua)
+   1.144 Loading mod settings Milestones 1.3.18 (settings.lua)
+   1.145 Loading mod settings PickerDollies 1.2.6 (settings.lua)
+   1.145 Loading mod settings RateCalculator 3.2.2 (settings.lua)
+   1.145 Loading mod settings Silly-AbandonedRuins 0.1.1 (settings.lua)
+   1.146 Loading mod settings aai-programmable-vehicles 0.7.24 (settings.lua)
+   1.146 Loading mod settings AlienBiomesTweaked 0.0.6 (settings.lua)
+   1.146 Loading mod settings ArmouredBiters 1.1.9 (settings.lua)
+   1.147 Loading mod settings Cold_biters 1.1.4 (settings.lua)
+   1.148 Loading mod settings factoryplanner 1.1.70 (settings.lua)
+   1.148 Loading mod settings LogisticTrainNetwork 1.18.3 (settings.lua)
+   1.149 Loading mod settings space-exploration 0.6.108 (settings.lua)
+   1.149 Loading mod settings Toxic_biters 1.0.2 (settings.lua)
+   1.150 Loading mod settings Warmonger 1.3.23 (settings.lua)
+   1.150 Loading mod settings AircraftRealism 1.5.5 (settings.lua)
+   1.152 Loading mod settings blueprint-sandboxes 1.16.3 (settings.lua)
+   1.152 Loading mod settings Creeper2 1.1.0 (settings.lua)
+   1.153 Loading mod settings EditorExtensions 2.1.5 (settings.lua)
+   1.154 Loading mod settings Explosive_biters 2.0.5 (settings.lua)
+   1.154 Loading mod settings extended-descriptions 1.2.1 (settings.lua)
+   1.155 Loading mod settings qol_research 3.3.3 (settings.lua)
+   1.156 Loading mod settings RampantFixed 1.7.1 (settings.lua)
+   1.157 Loading mod settings se-ltn-glue 0.6.0 (settings.lua)
+   1.158 Loading mod settings spidertron-dock 1.0.3 (settings.lua)
+   1.159 Loading mod settings dredgeworks 0.2.5 (settings.lua)
+   1.159 Loading mod settings enemyracemanager 1.17.3 (settings.lua)
+   1.160 Loading mod settings simple-vehicle-physics 0.0.12 (settings.lua)
+   1.161 Loading mod settings space-exploration-postprocess 0.6.26 (settings.lua)
+   1.162 Loading mod settings True-Nukes 0.3.21 (settings.lua)
+   1.164 Loading mod settings BottleneckLite 1.2.7 (settings.lua)
+   1.165 Loading mod settings GUI_Unifyer 1.12.0 (settings.lua)
+   1.170 Loading mod settings osm-radioactivity 1.1.41 (settings.lua)
+   1.172 Loading mod settings RealisticReactors 3.1.4 (settings.lua)
+   1.175 Loading mod settings Realistic_Heat_Glow 2.1.0 (settings.lua)
+   1.177 Loading mod settings cargo-ships 0.2.2 (settings-updates.lua)
+   1.179 Loading mod settings dredgeworks 0.2.5 (settings-updates.lua)
+   1.180 Loading mod settings erm_redarmy 1.7.0 (settings-updates.lua)
+   1.181 Loading mod settings erm_zerg_high_res 1.0.0 (settings-updates.lua)
+   1.183 Loading mod settings AutoDeconstruct 0.3.8 (settings-final-fixes.lua)
+   1.184 Loading mod settings osm-radioactivity 1.1.41 (settings-final-fixes.lua)
+   1.194 Loading mod core 0.0.0 (data.lua)
+   1.229 Loading mod base 1.1.87 (data.lua)
+   1.454 Loading mod VehicleSnap 1.18.5 (data.lua)
+   1.490 Loading mod WireShortcuts 1.1.13 (data.lua)
+   1.521 Loading mod aai-containers 0.2.11 (data.lua)
+   1.559 Loading mod aai-signal-transmission 0.4.8 (data.lua)
+   1.599 Loading mod aai-signals 0.6.1 (data.lua)
+   1.632 Loading mod aai-zones 0.6.4 (data.lua)
+   1.669 Loading mod AbandonedRuins 1.1.6 (data.lua)
+   1.703 Loading mod Aircraft 1.8.6 (data.lua)
+   1.741 Loading mod alien-biomes-hr-terrain 0.6.1 (data.lua)
+   1.777 Loading mod Arachnids 1.1.1 (data.lua)
+   1.813 Loading mod Armored-train 0.4.6 (data.lua)
+   1.859 Loading mod biterexpansionnotifier 1.0.0 (data.lua)
+   1.895 Loading mod bullet-trails 0.6.2 (data.lua)
+   1.928 Loading mod ChangeMapSettings 5.0.1 (data.lua)
+   1.961 Loading mod death_curses 1.0.15 (data.lua)
+   1.997 Loading mod enemyracemanager_assets 1.0.1 (data.lua)
+   2.040 Loading mod Enhanced_Map_Colors 1.5.5 (data.lua)
+   2.075 Loading mod even-distribution 1.0.10 (data.lua)
+   2.111 Loading mod flib 0.12.9 (data.lua)
+   2.152 Loading mod Fluid-level-indicator 0.6.1 (data.lua)
+   2.197 Loading mod grappling-gun 0.3.3 (data.lua)
+   2.233 Loading mod Gun_Turret_Alerts 1.1.11 (data.lua)
+   2.268 Loading mod HelicopterRevival 0.2.2 (data.lua)
+   2.308 Loading mod informatron 0.3.4 (data.lua)
+   2.342 Loading mod jetpack 0.3.13 (data.lua)
+   2.378 Loading mod liborio 1.1.1 (data.lua)
+   2.378 Script @__liborio__/data.lua:1: LIBORIO DATA
+   2.378 Script @__liborio__/prototypes/scripts/util.lua:1: LIBORIO UTIL
+   2.379 Script @__liborio__/prototypes/scripts/sharedutil.lua:1: LIBORIO SHAREDUTIL
+   2.379 Script @__liborio__/prototypes/scripts/utildata.lua:1: LIBORIO UTILDATA
+   2.419 Loading mod ModuleInserterSimplified 1.1.4 (data.lua)
+   2.455 Loading mod Nuclear Fuel 1.1.5 (data.lua)
+   2.489 Loading mod osm-lib 1.1.41 (data.lua)
+   2.529 Loading mod RampantArsenal 1.1.6 (data.lua)
+   2.594 Loading mod RealisticOres 7.101.0 (data.lua)
+   2.636 Loading mod RealisticReactorGlow 1.101.7 (data.lua)
+   2.679 Loading mod robot_attrition 0.5.15 (data.lua)
+   2.721 Loading mod shield-projector 0.1.6 (data.lua)
+   2.760 Loading mod SolarWalls 0.0.13 (data.lua)
+   2.798 Loading mod space-exploration-menu-simulations 0.6.8 (data.lua)
+   2.841 Loading mod textplates 0.6.10 (data.lua)
+   2.894 Loading mod Todo-List 19.3.0 (data.lua)
+   2.936 Loading mod TreeSaplings-Redux 1.0.6 (data.lua)
+   2.992 Loading mod underwater-pipes 3.1.0 (data.lua)
+   2.996 Script @__underwater-pipes__/collision-mask-util-extended/data/collision-mask-util-extended.lua:121: Named collision layer [underwater-layer] set to layer [layer-13]
+   3.038 Loading mod whats-missing 0.1.14 (data.lua)
+   3.080 Loading mod aai-industry 0.5.20 (data.lua)
+   3.082 Script @__aai-industry__/data.lua:2: Log mods once: {
+  AbandonedRuins = "1.1.6",
+  Aircraft = "1.8.6",
+  AircraftRealism = "1.5.5",
+  AlienBiomesTweaked = "0.0.6",
+  Arachnids = "1.1.1",
+  ["Armored-train"] = "0.4.6",
+  ArmouredBiters = "1.1.9",
+  AutoDeconstruct = "0.3.8",
+  BeltRouter = "1.5.2",
+  BottleneckLite = "1.2.7",
+  ["Brighter-Lamps"] = "1.1.0",
+  ChangeMapSettings = "5.0.1",
+  Cold_biters = "1.1.4",
+  Creeper2 = "1.1.0",
+  Dirt_Path = "1.3.8",
+  DiscoScience = "1.1.3",
+  EditorExtensions = "2.1.5",
+  EnableResearchQueue = "1.0.4",
+  Enhanced_Map_Colors = "1.5.5",
+  Explosive_biters = "2.0.5",
+  ["Fluid-level-indicator"] = "0.6.1",
+  GUI_Unifyer = "1.12.0",
+  Gun_Turret_Alerts = "1.1.11",
+  HelicopterRevival = "0.2.2",
+  KS_Combat_Updated = "1.1.0",
+  LogisticTrainNetwork = "1.18.3",
+  Milestones = "1.3.18",
+  MiscLib = "0.9.2",
+  ModuleInserterSimplified = "1.1.4",
+  ["Nuclear Fuel"] = "1.1.5",
+  PickerDollies = "1.2.6",
+  RampantArsenal = "1.1.6",
+  RampantFixed = "1.7.1",
+  RateCalculator = "3.2.2",
+  RealisticOres = "7.101.0",
+  RealisticReactorGlow = "1.101.7",
+  RealisticReactors = "3.1.4",
+  Realistic_Heat_Glow = "2.1.0",
+  RecipeBook = "3.5.5",
+  ["Silly-AbandonedRuins"] = "0.1.1",
+  SolarWalls = "0.0.13",
+  ["Squeak Through"] = "1.8.2",
+  ["Todo-List"] = "19.3.0",
+  Toxic_biters = "1.0.2",
+  ["TreeSaplings-Redux"] = "1.0.6",
+  ["True-Nukes"] = "0.3.21",
+  VehicleSnap = "1.18.5",
+  Warheads = "0.0.15",
+  Warmonger = "1.3.23",
+  Water_Ores = "1.1.3",
+  WireShortcuts = "1.1.13",
+  ["aai-containers"] = "0.2.11",
+  ["aai-industry"] = "0.5.20",
+  ["aai-programmable-structures"] = "0.7.4",
+  ["aai-programmable-vehicles"] = "0.7.24",
+  ["aai-signal-transmission"] = "0.4.8",
+  ["aai-signals"] = "0.6.1",
+  ["aai-zones"] = "0.6.4",
+  ["alien-biomes"] = "0.6.8",
+  ["alien-biomes-hr-terrain"] = "0.6.1",
+  base = "1.1.87",
+  ["big-data-string"] = "1.0.1",
+  biterexpansionnotifier = "1.0.0",
+  ["blueprint-sandboxes"] = "1.16.3",
+  ["bullet-trails"] = "0.6.2",
+  ["cargo-ships"] = "0.2.2",
+  ["cargo-ships-graphics"] = "0.2.1",
+  ["cargo-ships-nofreepower"] = "0.1.0",
+  ["combat-mechanics-overhaul"] = "0.6.24",
+  death_curses = "1.0.15",
+  dredgeworks = "0.2.5",
+  enemyracemanager = "1.17.3",
+  enemyracemanager_assets = "1.0.1",
+  ["equipment-gantry"] = "0.1.5",
+  erm_redarmy = "1.7.0",
+  erm_zerg_high_res = "1.0.0",
+  ["even-distribution"] = "1.0.10",
+  ["extended-descriptions"] = "1.2.1",
+  ["factorio-research-queue"] = "0.5.7",
+  factoriohd_modpack = "1.1.0",
+  factoryplanner = "1.1.70",
+  flib = "0.12.9",
+  ["grappling-gun"] = "0.3.3",
+  heroturrets = "1.1.21",
+  informatron = "0.3.4",
+  jetpack = "0.3.13",
+  liborio = "1.1.1",
+  ["nco-SpaceShuttle"] = "0.0.5",
+  ["osm-lib"] = "1.1.41",
+  ["osm-lib-postprocess"] = "23.1.10",
+  ["osm-radioactivity"] = "1.1.41",
+  qol_research = "3.3.3",
+  robot_attrition = "0.5.15",
+  ["se-ltn-glue"] = "0.6.0",
+  ["shield-projector"] = "0.1.6",
+  simhelper = "1.1.4",
+  ["simple-vehicle-physics"] = "0.0.12",
+  ["space-exploration"] = "0.6.108",
+  ["space-exploration-graphics"] = "0.6.15",
+  ["space-exploration-graphics-2"] = "0.6.1",
+  ["space-exploration-graphics-3"] = "0.6.2",
+  ["space-exploration-graphics-4"] = "0.6.2",
+  ["space-exploration-graphics-5"] = "0.6.1",
+  ["space-exploration-menu-simulations"] = "0.6.8",
+  ["space-exploration-postprocess"] = "0.6.26",
+  ["spidertron-dock"] = "1.0.3",
+  stdlib = "1.4.8",
+  textplates = "0.6.10",
+  ["underwater-pipes"] = "3.1.0",
+  ["whats-missing"] = "0.1.14",
+  zerm_postprocess = "1.1.0"
+}
+   3.157 Loading mod aai-programmable-structures 0.7.4 (data.lua)
+   3.201 Loading mod alien-biomes 0.6.8 (data.lua)
+   3.500 Loading mod BeltRouter 1.5.2 (data.lua)
+   3.577 Loading mod cargo-ships 0.2.2 (data.lua)
+   3.672 Loading mod combat-mechanics-overhaul 0.6.24 (data.lua)
+   3.677 Script @__combat-mechanics-overhaul__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [flying-layer] set to layer [layer-15]
+   3.680 Script @__combat-mechanics-overhaul__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [projectile-layer] set to layer [layer-16]
+   3.683 Script @__combat-mechanics-overhaul__/collision-mask-util-extended/data/collision-mask-util-extended.lua:133: Named collision layer [vehicle-layer] set to layer [layer-17]
+   3.757 Loading mod DiscoScience 1.1.3 (data.lua)
+   3.833 Loading mod equipment-gantry 0.1.5 (data.lua)
+   3.919 Loading mod factorio-research-queue 0.5.7 (data.lua)
+   4.001 Loading mod heroturrets 1.1.21 (data.lua)
+   4.076 Loading mod Milestones 1.3.18 (data.lua)
+   4.156 Loading mod PickerDollies 1.2.6 (data.lua)
+   4.234 Loading mod RateCalculator 3.2.2 (data.lua)
+   4.321 Loading mod RecipeBook 3.5.5 (data.lua)
+   4.417 Loading mod aai-programmable-vehicles 0.7.24 (data.lua)
+   4.420 Script @__aai-programmable-vehicles__/prototypes/phase-1/init-named-collision-layers.lua:9: collision_mask: flying-layer = layer-15
+   4.420 Script @__aai-programmable-vehicles__/prototypes/phase-1/init-named-collision-layers.lua:11: collision_mask: projectile-layer = layer-16
+   4.420 Script @__aai-programmable-vehicles__/prototypes/phase-1/init-named-collision-layers.lua:13: collision_mask: vehicle-layer = layer-17
+   4.498 Loading mod ArmouredBiters 1.1.9 (data.lua)
+   4.580 Loading mod cargo-ships-nofreepower 0.1.0 (data.lua)
+   4.657 Loading mod Cold_biters 1.1.4 (data.lua)
+   4.752 Loading mod Dirt_Path 1.3.8 (data.lua)
+   4.833 Loading mod factoryplanner 1.1.70 (data.lua)
+   4.920 Loading mod LogisticTrainNetwork 1.18.3 (data.lua)
+   5.007 Loading mod space-exploration 0.6.108 (data.lua)
+   5.015 Script @__space-exploration__/collision-mask-util-extended/data/collision-mask-util-extended.lua:111: Named collision layer [empty-space-tile] set to layer [layer-18]
+   5.018 Script @__space-exploration__/collision-mask-util-extended/data/collision-mask-util-extended.lua:111: Named collision layer [space-tile] set to layer [layer-19]
+   5.021 Script @__space-exploration__/collision-mask-util-extended/data/collision-mask-util-extended.lua:111: Named collision layer [moving-tile] set to layer [layer-20]
+   5.024 Script @__space-exploration__/collision-mask-util-extended/data/collision-mask-util-extended.lua:111: Named collision layer [composite-entity-circuit-connection-layer] set to layer [layer-21]
+   5.076 Script @__space-exploration__/collision-mask-util-extended/data/collision-mask-util-extended.lua:111: Named collision layer [addon-layer] set to layer [layer-22]
+   5.245 Loading mod Toxic_biters 1.0.2 (data.lua)
+   5.368 Loading mod Warmonger 1.3.23 (data.lua)
+   5.470 Loading mod AircraftRealism 1.5.5 (data.lua)
+   5.569 Loading mod blueprint-sandboxes 1.16.3 (data.lua)
+   5.664 Loading mod Creeper2 1.1.0 (data.lua)
+   5.767 Loading mod EditorExtensions 2.1.5 (data.lua)
+   5.891 Loading mod Explosive_biters 2.0.5 (data.lua)
+   6.023 Loading mod nco-SpaceShuttle 0.0.5 (data.lua)
+   6.130 Loading mod qol_research 3.3.3 (data.lua)
+   6.132 Script @__qol_research__/config_data.lua:59: [qol] enable default external configuration override for {"space-exploration"}
+   6.237 Loading mod RampantFixed 1.7.1 (data.lua)
+   6.364 Loading mod se-ltn-glue 0.6.0 (data.lua)
+   6.476 Loading mod spidertron-dock 1.0.3 (data.lua)
+   6.581 Loading mod Warheads 0.0.15 (data.lua)
+   6.687 Loading mod dredgeworks 0.2.5 (data.lua)
+   6.797 Loading mod enemyracemanager 1.17.3 (data.lua)
+   7.168 Loading mod space-exploration-postprocess 0.6.26 (data.lua)
+   7.312 Loading mod True-Nukes 0.3.21 (data.lua)
+   7.518 Loading mod erm_redarmy 1.7.0 (data.lua)
+   8.282 Loading mod erm_zerg_high_res 1.0.0 (data.lua)
+   8.574 Loading mod GUI_Unifyer 1.12.0 (data.lua)
+   8.776 Loading mod osm-radioactivity 1.1.41 (data.lua)
+   8.970 Loading mod RealisticReactors 3.1.4 (data.lua)
+   9.164 Loading mod zerm_postprocess 1.1.0 (data.lua)
+   9.344 Loading mod base 1.1.87 (data-updates.lua)
+   9.519 Loading mod Aircraft 1.8.6 (data-updates.lua)
+   9.701 Loading mod Brighter-Lamps 1.1.0 (data-updates.lua)
+   9.901 Loading mod bullet-trails 0.6.2 (data-updates.lua)
+  10.082 Loading mod Enhanced_Map_Colors 1.5.5 (data-updates.lua)
+  10.264 Loading mod liborio 1.1.1 (data-updates.lua)
+  10.265 Script @__liborio__/data-updates.lua:1: LIBORIO DATA UPDATES
+  10.265 Script @__liborio__/prototypes/scripts/util.lua:1: LIBORIO UTIL
+  10.266 Script @__liborio__/prototypes/scripts/sharedutil.lua:1: LIBORIO SHAREDUTIL
+  10.266 Script @__liborio__/prototypes/scripts/utildata.lua:1: LIBORIO UTILDATA
+  10.448 Loading mod osm-lib 1.1.41 (data-updates.lua)
+  10.626 Loading mod RampantArsenal 1.1.6 (data-updates.lua)
+  10.820 Loading mod Squeak Through 1.8.2 (data-updates.lua)
+  11.001 Loading mod textplates 0.6.10 (data-updates.lua)
+  11.187 Loading mod TreeSaplings-Redux 1.0.6 (data-updates.lua)
+  11.373 Loading mod aai-industry 0.5.20 (data-updates.lua)
+  11.586 Loading mod alien-biomes 0.6.8 (data-updates.lua)
+  11.781 Loading mod cargo-ships 0.2.2 (data-updates.lua)
+  11.969 Loading mod heroturrets 1.1.21 (data-updates.lua)
+  12.153 Loading mod KS_Combat_Updated 1.1.0 (data-updates.lua)
+  12.160 Script @__KS_Combat_Updated__/data/collision.lua:6: projectile_collision_layer = layer-16
+  12.354 Loading mod aai-programmable-vehicles 0.7.24 (data-updates.lua)
+  12.537 Loading mod AlienBiomesTweaked 0.0.6 (data-updates.lua)
+  12.718 Loading mod Cold_biters 1.1.4 (data-updates.lua)
+  12.915 Loading mod space-exploration 0.6.108 (data-updates.lua)
+  13.108 Loading mod blueprint-sandboxes 1.16.3 (data-updates.lua)
+  13.297 Loading mod Creeper2 1.1.0 (data-updates.lua)
+  13.500 Loading mod nco-SpaceShuttle 0.0.5 (data-updates.lua)
+  13.680 Loading mod RampantFixed 1.7.1 (data-updates.lua)
+  13.903 Loading mod spidertron-dock 1.0.3 (data-updates.lua)
+  14.088 Loading mod Warheads 0.0.15 (data-updates.lua)
+  14.224 Script @__Warheads__/prototypes/compatibility/SE-weapontypes.lua:13: Complicated: built up explosion flattened for SE-delivery cannon...
+  14.224 Script @__Warheads__/prototypes/compatibility/SE-weapontypes.lua:13: Complicated: built up explosion flattened for SE-delivery cannon...
+  14.224 Script @__Warheads__/prototypes/compatibility/SE-weapontypes.lua:13: Complicated: built up explosion flattened for SE-delivery cannon...
+  14.229 Script @__Warheads__/prototypes/compatibility/SE-weapontypes.lua:13: Complicated: built up explosion flattened for SE-delivery cannon...
+  14.435 Loading mod dredgeworks 0.2.5 (data-updates.lua)
+  14.437 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging iron-ore
+  14.439 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging copper-ore
+  14.441 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging coal
+  14.442 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging stone
+  14.444 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging uranium-ore
+  14.444 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging se-water-ice
+  14.444 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging se-methane-ice
+  14.444 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging se-beryllium-ore
+  14.445 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging se-cryonite
+  14.445 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging se-holmium-ore
+  14.445 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging se-vulcanite
+  14.445 Script @__dredgeworks__/prototypes/resources.lua:9: dredgeworks: submerging se-vitamelange
+  14.661 Loading mod enemyracemanager 1.17.3 (data-updates.lua)
+  15.854 Loading mod True-Nukes 0.3.21 (data-updates.lua)
+  16.161 Loading mod erm_redarmy 1.7.0 (data-updates.lua)
+  16.452 Loading mod erm_zerg_high_res 1.0.0 (data-updates.lua)
+  16.738 Loading mod RealisticReactors 3.1.4 (data-updates.lua)
+  17.046 Loading mod Realistic_Heat_Glow 2.1.0 (data-updates.lua)
+  17.341 Loading mod WireShortcuts 1.1.13 (data-final-fixes.lua)
+  17.642 Loading mod aai-containers 0.2.11 (data-final-fixes.lua)
+  17.922 Loading mod enemyracemanager_assets 1.0.1 (data-final-fixes.lua)
+  18.199 Loading mod HelicopterRevival 0.2.2 (data-final-fixes.lua)
+  18.482 Loading mod jetpack 0.3.13 (data-final-fixes.lua)
+  18.766 Loading mod liborio 1.1.1 (data-final-fixes.lua)
+  18.767 Script @__liborio__/data-final-fixes.lua:1: LIBORIO DATA FINAL FIXES
+  18.767 Script @__liborio__/prototypes/scripts/util.lua:1: LIBORIO UTIL
+  18.768 Script @__liborio__/prototypes/scripts/sharedutil.lua:1: LIBORIO SHAREDUTIL
+  18.769 Script @__liborio__/prototypes/scripts/utildata.lua:1: LIBORIO UTILDATA
+  19.041 Loading mod ModuleInserterSimplified 1.1.4 (data-final-fixes.lua)
+  19.331 Loading mod osm-lib 1.1.41 (data-final-fixes.lua)
+  19.633 Loading mod RampantArsenal 1.1.6 (data-final-fixes.lua)
+  19.950 Loading mod RealisticOres 7.101.0 (data-final-fixes.lua)
+  20.246 Loading mod robot_attrition 0.5.15 (data-final-fixes.lua)
+  20.535 Loading mod TreeSaplings-Redux 1.0.6 (data-final-fixes.lua)
+  20.827 Loading mod aai-industry 0.5.20 (data-final-fixes.lua)
+  21.140 Loading mod aai-programmable-structures 0.7.4 (data-final-fixes.lua)
+  21.441 Loading mod alien-biomes 0.6.8 (data-final-fixes.lua)
+  21.480 Script @__alien-biomes__/data-final-fixes.lua:300: Setting decals to layer 163
+  21.480 Script @__alien-biomes__/data-final-fixes.lua:407: logging tile layers
+  21.490 Script @__alien-biomes__/data-final-fixes.lua:412: {
+  ["layer 0"] = "out-of-map",
+  ["layer 1"] = "water, water-green",
+  ["layer 2"] = "deepwater, deepwater-green",
+  ["layer 3"] = "water-wube",
+  ["layer 4"] = "water-shallow",
+  ["layer 5"] = "water-mud",
+  ["layer 6"] = "grass-1",
+  ["layer 7"] = "mineral-purple-dirt-1",
+  ["layer 8"] = "mineral-purple-dirt-2",
+  ["layer 9"] = "mineral-purple-dirt-3",
+  ["layer 10"] = "mineral-purple-dirt-4",
+  ["layer 11"] = "mineral-purple-dirt-5",
+  ["layer 12"] = "mineral-purple-dirt-6",
+  ["layer 13"] = "mineral-purple-sand-1",
+  ["layer 14"] = "mineral-purple-sand-2",
+  ["layer 15"] = "mineral-purple-sand-3",
+  ["layer 16"] = "mineral-violet-dirt-1",
+  ["layer 17"] = "mineral-violet-dirt-2",
+  ["layer 18"] = "mineral-violet-dirt-3",
+  ["layer 19"] = "mineral-violet-dirt-4",
+  ["layer 20"] = "mineral-violet-dirt-5",
+  ["layer 21"] = "mineral-violet-dirt-6",
+  ["layer 22"] = "mineral-violet-sand-1",
+  ["layer 23"] = "mineral-violet-sand-2",
+  ["layer 24"] = "mineral-violet-sand-3",
+  ["layer 25"] = "mineral-red-dirt-1",
+  ["layer 26"] = "mineral-red-dirt-2",
+  ["layer 27"] = "mineral-red-dirt-3",
+  ["layer 28"] = "mineral-red-dirt-4",
+  ["layer 29"] = "mineral-red-dirt-5",
+  ["layer 30"] = "mineral-red-dirt-6",
+  ["layer 31"] = "mineral-red-sand-1",
+  ["layer 32"] = "mineral-red-sand-2",
+  ["layer 33"] = "mineral-red-sand-3",
+  ["layer 34"] = "mineral-brown-dirt-1",
+  ["layer 35"] = "mineral-brown-dirt-2",
+  ["layer 36"] = "mineral-brown-dirt-3",
+  ["layer 37"] = "mineral-brown-dirt-4",
+  ["layer 38"] = "mineral-brown-dirt-5",
+  ["layer 39"] = "mineral-brown-dirt-6",
+  ["layer 40"] = "mineral-brown-sand-1",
+  ["layer 41"] = "mineral-brown-sand-2",
+  ["layer 42"] = "mineral-brown-sand-3",
+  ["layer 43"] = "mineral-tan-dirt-1",
+  ["layer 44"] = "mineral-tan-dirt-2",
+  ["layer 45"] = "mineral-tan-dirt-3",
+  ["layer 46"] = "mineral-tan-dirt-4",
+  ["layer 47"] = "mineral-tan-dirt-5",
+  ["layer 48"] = "mineral-tan-dirt-6",
+  ["layer 49"] = "mineral-tan-sand-1",
+  ["layer 50"] = "mineral-tan-sand-2",
+  ["layer 51"] = "mineral-tan-sand-3",
+  ["layer 52"] = "mineral-aubergine-dirt-1",
+  ["layer 53"] = "mineral-aubergine-dirt-2",
+  ["layer 54"] = "mineral-aubergine-dirt-3",
+  ["layer 55"] = "mineral-aubergine-dirt-4",
+  ["layer 56"] = "mineral-aubergine-dirt-5",
+  ["layer 57"] = "mineral-aubergine-dirt-6",
+  ["layer 58"] = "mineral-aubergine-sand-1",
+  ["layer 59"] = "mineral-aubergine-sand-2",
+  ["layer 60"] = "mineral-aubergine-sand-3",
+  ["layer 61"] = "mineral-dustyrose-dirt-1",
+  ["layer 62"] = "mineral-dustyrose-dirt-2",
+  ["layer 63"] = "mineral-dustyrose-dirt-3",
+  ["layer 64"] = "mineral-dustyrose-dirt-4",
+  ["layer 65"] = "mineral-dustyrose-dirt-5",
+  ["layer 66"] = "mineral-dustyrose-dirt-6",
+  ["layer 67"] = "mineral-dustyrose-sand-1",
+  ["layer 68"] = "mineral-dustyrose-sand-2",
+  ["layer 69"] = "mineral-dustyrose-sand-3",
+  ["layer 70"] = "mineral-beige-dirt-1",
+  ["layer 71"] = "mineral-beige-dirt-2",
+  ["layer 72"] = "mineral-beige-dirt-3",
+  ["layer 73"] = "mineral-beige-dirt-4",
+  ["layer 74"] = "mineral-beige-dirt-5",
+  ["layer 75"] = "mineral-beige-dirt-6",
+  ["layer 76"] = "mineral-beige-sand-1",
+  ["layer 77"] = "mineral-beige-sand-2",
+  ["layer 78"] = "mineral-beige-sand-3",
+  ["layer 79"] = "mineral-cream-dirt-1",
+  ["layer 80"] = "mineral-cream-dirt-2",
+  ["layer 81"] = "mineral-cream-dirt-3",
+  ["layer 82"] = "mineral-cream-dirt-4",
+  ["layer 83"] = "mineral-cream-dirt-5",
+  ["layer 84"] = "mineral-cream-dirt-6",
+  ["layer 85"] = "mineral-cream-sand-1",
+  ["layer 86"] = "mineral-cream-sand-2",
+  ["layer 87"] = "mineral-cream-sand-3",
+  ["layer 88"] = "mineral-black-dirt-1",
+  ["layer 89"] = "mineral-black-dirt-2",
+  ["layer 90"] = "mineral-black-dirt-3",
+  ["layer 91"] = "mineral-black-dirt-4",
+  ["layer 92"] = "mineral-black-dirt-5",
+  ["layer 93"] = "mineral-black-dirt-6",
+  ["layer 94"] = "mineral-black-sand-1",
+  ["layer 95"] = "mineral-black-sand-2",
+  ["layer 96"] = "mineral-black-sand-3",
+  ["layer 97"] = "mineral-grey-dirt-1",
+  ["layer 98"] = "mineral-grey-dirt-2",
+  ["layer 99"] = "mineral-grey-dirt-3",
+  ["layer 100"] = "mineral-grey-dirt-4",
+  ["layer 101"] = "mineral-grey-dirt-5",
+  ["layer 102"] = "mineral-grey-dirt-6",
+  ["layer 103"] = "mineral-grey-sand-1",
+  ["layer 104"] = "mineral-grey-sand-2",
+  ["layer 105"] = "mineral-grey-sand-3",
+  ["layer 106"] = "mineral-white-dirt-1",
+  ["layer 107"] = "mineral-white-dirt-2",
+  ["layer 108"] = "mineral-white-dirt-3",
+  ["layer 109"] = "mineral-white-dirt-4",
+  ["layer 110"] = "mineral-white-dirt-5",
+  ["layer 111"] = "mineral-white-dirt-6",
+  ["layer 112"] = "mineral-white-sand-1",
+  ["layer 113"] = "mineral-white-sand-2",
+  ["layer 114"] = "mineral-white-sand-3",
+  ["layer 115"] = "vegetation-turquoise-grass-1",
+  ["layer 116"] = "vegetation-turquoise-grass-2",
+  ["layer 117"] = "vegetation-green-grass-1",
+  ["layer 118"] = "vegetation-green-grass-2",
+  ["layer 119"] = "vegetation-green-grass-3",
+  ["layer 120"] = "vegetation-green-grass-4",
+  ["layer 121"] = "vegetation-olive-grass-1",
+  ["layer 122"] = "vegetation-olive-grass-2",
+  ["layer 123"] = "vegetation-yellow-grass-1",
+  ["layer 124"] = "vegetation-yellow-grass-2",
+  ["layer 125"] = "vegetation-orange-grass-1",
+  ["layer 126"] = "vegetation-orange-grass-2",
+  ["layer 127"] = "vegetation-red-grass-1",
+  ["layer 128"] = "vegetation-red-grass-2",
+  ["layer 129"] = "vegetation-violet-grass-1",
+  ["layer 130"] = "vegetation-violet-grass-2",
+  ["layer 131"] = "vegetation-purple-grass-1",
+  ["layer 132"] = "vegetation-purple-grass-2",
+  ["layer 133"] = "vegetation-mauve-grass-1",
+  ["layer 134"] = "vegetation-mauve-grass-2",
+  ["layer 135"] = "vegetation-blue-grass-1",
+  ["layer 136"] = "vegetation-blue-grass-2",
+  ["layer 137"] = "volcanic-orange-heat-1",
+  ["layer 138"] = "volcanic-orange-heat-2",
+  ["layer 139"] = "volcanic-orange-heat-3",
+  ["layer 140"] = "volcanic-orange-heat-4",
+  ["layer 141"] = "volcanic-green-heat-1",
+  ["layer 142"] = "volcanic-green-heat-2",
+  ["layer 143"] = "volcanic-green-heat-3",
+  ["layer 144"] = "volcanic-green-heat-4",
+  ["layer 145"] = "volcanic-blue-heat-1",
+  ["layer 146"] = "volcanic-blue-heat-2",
+  ["layer 147"] = "volcanic-blue-heat-3",
+  ["layer 148"] = "volcanic-blue-heat-4",
+  ["layer 149"] = "volcanic-purple-heat-1",
+  ["layer 150"] = "volcanic-purple-heat-2",
+  ["layer 151"] = "volcanic-purple-heat-3",
+  ["layer 152"] = "volcanic-purple-heat-4",
+  ["layer 153"] = "frozen-snow-0",
+  ["layer 154"] = "frozen-snow-1",
+  ["layer 155"] = "frozen-snow-2",
+  ["layer 156"] = "frozen-snow-3",
+  ["layer 157"] = "frozen-snow-4",
+  ["layer 158"] = "frozen-snow-5",
+  ["layer 159"] = "frozen-snow-6",
+  ["layer 160"] = "frozen-snow-7",
+  ["layer 161"] = "frozen-snow-8",
+  ["layer 162"] = "frozen-snow-9",
+  ["layer 163"] = "landfill",
+  ["layer 164"] = "tile-unknown",
+  ["layer 165"] = "se-space",
+  ["layer 166"] = "interior-divider",
+  ["layer 167"] = "nuclear-deep-fill",
+  ["layer 168"] = "nuclear-crater-shallow-fill",
+  ["layer 169"] = "nuclear-deep-shallow-fill",
+  ["layer 170"] = "nuclear-deep",
+  ["layer 171"] = "nuclear-crater",
+  ["layer 172"] = "nuclear-shallow",
+  ["layer 173"] = "sand-1",
+  ["layer 174"] = "sand-2",
+  ["layer 175"] = "sand-3",
+  ["layer 176"] = "red-desert-1",
+  ["layer 177"] = "red-desert-2",
+  ["layer 178"] = "red-desert-3",
+  ["layer 179"] = "dry-dirt",
+  ["layer 180"] = "dirt-1",
+  ["layer 181"] = "dirt-2",
+  ["layer 182"] = "se-asteroid",
+  ["layer 183"] = "dirt-3",
+  ["layer 184"] = "dirt-4",
+  ["layer 185"] = "dirt-5",
+  ["layer 186"] = "dirt-6",
+  ["layer 187"] = "dirt-7",
+  ["layer 188"] = "grass-2",
+  ["layer 189"] = "grass-3",
+  ["layer 190"] = "grass-4",
+  ["layer 191"] = "red-desert-0",
+  ["layer 192"] = "nuclear-ground",
+  ["layer 193"] = "tutorial-grid",
+  ["layer 194"] = "creeper-landfill",
+  ["layer 195"] = "rough-stone-path",
+  ["layer 196"] = "stone-path",
+  ["layer 197"] = "concrete",
+  ["layer 198"] = "hazard-concrete-left, hazard-concrete-right",
+  ["layer 199"] = "refined-concrete",
+  ["layer 200"] = "heli-pad-concrete",
+  ["layer 201"] = "refined-hazard-concrete-left, refined-hazard-concrete-right",
+  ["layer 202"] = "red-refined-concrete",
+  ["layer 203"] = "lab-dark-1",
+  ["layer 204"] = "lab-dark-2",
+  ["layer 205"] = "lab-white",
+  ["layer 206"] = "green-refined-concrete",
+  ["layer 207"] = "blue-refined-concrete",
+  ["layer 208"] = "orange-refined-concrete",
+  ["layer 209"] = "yellow-refined-concrete",
+  ["layer 210"] = "pink-refined-concrete",
+  ["layer 211"] = "purple-refined-concrete",
+  ["layer 212"] = "black-refined-concrete",
+  ["layer 213"] = "brown-refined-concrete",
+  ["layer 214"] = "cyan-refined-concrete",
+  ["layer 215"] = "acid-refined-concrete",
+  ["layer 216"] = "nuclear-high",
+  ["layer 217"] = "kr-creep",
+  ["layer 218"] = "fk-creep",
+  ["layer 219"] = "se-regolith",
+  ["layer 220"] = "se-space-platform-scaffold",
+  ["layer 221"] = "se-space-platform-plating",
+  ["layer 222"] = "se-spaceship-floor"
+}
+  21.795 Loading mod cargo-ships 0.2.2 (data-final-fixes.lua)
+  22.104 Loading mod combat-mechanics-overhaul 0.6.24 (data-final-fixes.lua)
+  22.442 Loading mod heroturrets 1.1.21 (data-final-fixes.lua)
+  22.443 Script @__heroturrets__/data-final-fixes.lua:3: Turrets via final fixes
+  22.444 Script @__heroturrets__/prototypes/scripts/types.lua:2: Creating Types
+  22.447 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-gun-turret
+  22.449 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-gun-turret
+  22.450 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-gun-turret
+  22.451 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-gun-turret
+  22.453 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-rocket-ammo-turret-rampant-arsenal
+  22.454 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-rocket-ammo-turret-rampant-arsenal
+  22.454 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-rocket-ammo-turret-rampant-arsenal
+  22.455 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-rocket-ammo-turret-rampant-arsenal
+  22.456 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-rapid-rocket-ammo-turret-rampant-arsenal
+  22.457 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-rapid-rocket-ammo-turret-rampant-arsenal
+  22.458 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-rapid-rocket-ammo-turret-rampant-arsenal
+  22.459 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-rapid-rocket-ammo-turret-rampant-arsenal
+  22.461 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-cannon-ammo-turret-rampant-arsenal
+  22.462 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-cannon-ammo-turret-rampant-arsenal
+  22.463 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-cannon-ammo-turret-rampant-arsenal
+  22.464 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-cannon-ammo-turret-rampant-arsenal
+  22.464 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-rapid-cannon-ammo-turret-rampant-arsenal
+  22.465 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-rapid-cannon-ammo-turret-rampant-arsenal
+  22.466 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-rapid-cannon-ammo-turret-rampant-arsenal
+  22.467 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-rapid-cannon-ammo-turret-rampant-arsenal
+  22.468 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-shotgun-ammo-turret-rampant-arsenal
+  22.469 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-shotgun-ammo-turret-rampant-arsenal
+  22.470 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-shotgun-ammo-turret-rampant-arsenal
+  22.471 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-shotgun-ammo-turret-rampant-arsenal
+  22.471 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-gun-ammo-turret-rampant-arsenal
+  22.472 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-gun-ammo-turret-rampant-arsenal
+  22.473 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-gun-ammo-turret-rampant-arsenal
+  22.474 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-gun-ammo-turret-rampant-arsenal
+  22.475 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-rifle-ammo-turret-rampant-arsenal
+  22.476 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-rifle-ammo-turret-rampant-arsenal
+  22.476 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-rifle-ammo-turret-rampant-arsenal
+  22.477 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-rifle-ammo-turret-rampant-arsenal
+  22.477 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-medic-ammo-turret-rampant-arsenal
+  22.478 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-medic-ammo-turret-rampant-arsenal
+  22.478 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-medic-ammo-turret-rampant-arsenal
+  22.479 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-medic-ammo-turret-rampant-arsenal
+  22.479 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-capsule-ammo-turret-rampant-arsenal
+  22.480 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-capsule-ammo-turret-rampant-arsenal
+  22.480 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-capsule-ammo-turret-rampant-arsenal
+  22.481 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-capsule-ammo-turret-rampant-arsenal
+  22.481 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-flamethrower-turret
+  22.484 Script @__heroturrets__/prototypes/scripts/types.lua:129: Updating tech for refined flammables for flamethrower-turret
+  22.484 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-1 for flamethrower-turret
+  22.484 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-2 for flamethrower-turret
+  22.484 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-3 for flamethrower-turret
+  22.484 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-4 for flamethrower-turret
+  22.484 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-5 for flamethrower-turret
+  22.484 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-6 for flamethrower-turret
+  22.484 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-7 for flamethrower-turret
+  22.484 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-flamethrower-turret
+  22.487 Script @__heroturrets__/prototypes/scripts/types.lua:129: Updating tech for refined flammables for flamethrower-turret
+  22.487 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-1 for flamethrower-turret
+  22.487 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-2 for flamethrower-turret
+  22.487 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-3 for flamethrower-turret
+  22.487 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-4 for flamethrower-turret
+  22.487 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-5 for flamethrower-turret
+  22.487 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-6 for flamethrower-turret
+  22.487 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-7 for flamethrower-turret
+  22.487 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-flamethrower-turret
+  22.489 Script @__heroturrets__/prototypes/scripts/types.lua:129: Updating tech for refined flammables for flamethrower-turret
+  22.489 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-1 for flamethrower-turret
+  22.489 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-2 for flamethrower-turret
+  22.489 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-3 for flamethrower-turret
+  22.489 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-4 for flamethrower-turret
+  22.489 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-5 for flamethrower-turret
+  22.489 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-6 for flamethrower-turret
+  22.489 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-7 for flamethrower-turret
+  22.489 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-flamethrower-turret
+  22.491 Script @__heroturrets__/prototypes/scripts/types.lua:129: Updating tech for refined flammables for flamethrower-turret
+  22.491 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-1 for flamethrower-turret
+  22.491 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-2 for flamethrower-turret
+  22.492 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-3 for flamethrower-turret
+  22.492 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-4 for flamethrower-turret
+  22.492 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-5 for flamethrower-turret
+  22.492 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-6 for flamethrower-turret
+  22.492 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-7 for flamethrower-turret
+  22.492 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-acid-cannon-rampant-arsenal
+  22.494 Script @__heroturrets__/prototypes/scripts/types.lua:129: Updating tech for refined flammables for acid-cannon-rampant-arsenal
+  22.494 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-1 for acid-cannon-rampant-arsenal
+  22.494 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-2 for acid-cannon-rampant-arsenal
+  22.494 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-3 for acid-cannon-rampant-arsenal
+  22.495 Script @__heroturrets__/prototypes/scripts/types.lua:142: Missing tech for refined-flammables-4 for acid-cannon-rampant-arsenal
+  22.495 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-5 for acid-cannon-rampant-arsenal
+  22.495 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-6 for acid-cannon-rampant-arsenal
+  22.495 Script @__heroturrets__/prototypes/scripts/types.lua:142: Missing tech for refined-flammables-7 for acid-cannon-rampant-arsenal
+  22.495 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-acid-cannon-rampant-arsenal
+  22.497 Script @__heroturrets__/prototypes/scripts/types.lua:129: Updating tech for refined flammables for acid-cannon-rampant-arsenal
+  22.497 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-1 for acid-cannon-rampant-arsenal
+  22.497 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-2 for acid-cannon-rampant-arsenal
+  22.497 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-3 for acid-cannon-rampant-arsenal
+  22.497 Script @__heroturrets__/prototypes/scripts/types.lua:142: Missing tech for refined-flammables-4 for acid-cannon-rampant-arsenal
+  22.497 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-5 for acid-cannon-rampant-arsenal
+  22.497 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-6 for acid-cannon-rampant-arsenal
+  22.497 Script @__heroturrets__/prototypes/scripts/types.lua:142: Missing tech for refined-flammables-7 for acid-cannon-rampant-arsenal
+  22.498 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-acid-cannon-rampant-arsenal
+  22.500 Script @__heroturrets__/prototypes/scripts/types.lua:129: Updating tech for refined flammables for acid-cannon-rampant-arsenal
+  22.500 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-1 for acid-cannon-rampant-arsenal
+  22.500 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-2 for acid-cannon-rampant-arsenal
+  22.500 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-3 for acid-cannon-rampant-arsenal
+  22.500 Script @__heroturrets__/prototypes/scripts/types.lua:142: Missing tech for refined-flammables-4 for acid-cannon-rampant-arsenal
+  22.500 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-5 for acid-cannon-rampant-arsenal
+  22.500 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-6 for acid-cannon-rampant-arsenal
+  22.500 Script @__heroturrets__/prototypes/scripts/types.lua:142: Missing tech for refined-flammables-7 for acid-cannon-rampant-arsenal
+  22.500 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-acid-cannon-rampant-arsenal
+  22.502 Script @__heroturrets__/prototypes/scripts/types.lua:129: Updating tech for refined flammables for acid-cannon-rampant-arsenal
+  22.502 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-1 for acid-cannon-rampant-arsenal
+  22.502 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-2 for acid-cannon-rampant-arsenal
+  22.502 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-3 for acid-cannon-rampant-arsenal
+  22.502 Script @__heroturrets__/prototypes/scripts/types.lua:142: Missing tech for refined-flammables-4 for acid-cannon-rampant-arsenal
+  22.502 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-5 for acid-cannon-rampant-arsenal
+  22.502 Script @__heroturrets__/prototypes/scripts/types.lua:139: Adding tech for refined-flammables-6 for acid-cannon-rampant-arsenal
+  22.502 Script @__heroturrets__/prototypes/scripts/types.lua:142: Missing tech for refined-flammables-7 for acid-cannon-rampant-arsenal
+  22.502 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-laser-turret
+  22.503 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-laser-turret
+  22.503 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-laser-turret
+  22.503 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-laser-turret
+  22.503 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-advanced-laser-electric-turret-rampant-arsenal
+  22.504 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-advanced-laser-electric-turret-rampant-arsenal
+  22.504 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-advanced-laser-electric-turret-rampant-arsenal
+  22.504 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-advanced-laser-electric-turret-rampant-arsenal
+  22.504 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-lightning-electric-turret-rampant-arsenal
+  22.504 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-lightning-electric-turret-rampant-arsenal
+  22.504 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-lightning-electric-turret-rampant-arsenal
+  22.505 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-lightning-electric-turret-rampant-arsenal
+  22.505 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-advanced-beam-electric-turret-rampant-arsenal
+  22.505 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-advanced-beam-electric-turret-rampant-arsenal
+  22.505 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-advanced-beam-electric-turret-rampant-arsenal
+  22.506 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-advanced-beam-electric-turret-rampant-arsenal
+  22.506 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-artillery-turret
+  22.507 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-artillery-turret
+  22.508 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-artillery-turret
+  22.508 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-artillery-turret
+  22.509 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-1-for-lite-artillery-turret-rampant-arsenal
+  22.510 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-2-for-lite-artillery-turret-rampant-arsenal
+  22.511 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-3-for-lite-artillery-turret-rampant-arsenal
+  22.512 Script @__heroturrets__/prototypes/scripts/types.lua:235: Creating hero-turret-4-for-lite-artillery-turret-rampant-arsenal
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated piercing-shotgun-shell range to 25.5
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated shotgun-shell range to 25.5
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated incendiary-cannon-shell-ammo-rampant-arsenal range to 51
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated he-cannon-shell-ammo-rampant-arsenal range to 51
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated bio-cannon-shell-ammo-rampant-arsenal range to 51
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated uranium-shotgun-ammo-rampant-arsenal range to 25.5
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated incendiary-shotgun-ammo-rampant-arsenal range to 25.5
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated he-shotgun-ammo-rampant-arsenal range to 25.5
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated bio-shotgun-ammo-rampant-arsenal range to 25.5
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated self-repair-capsule-ammo-rampant-arsenal range to 42
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated shotgun-shell-slug-atomic-0_1t range to 25.5
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-0_1t range to 51
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated shotgun-shell-slug-atomic-0_5t range to 25.5
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-0_5t range to 51
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated shotgun-shell-buckshot-atomic-0_1t range to 25.5
+  22.513 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated shotgun-shell-buckshot-atomic-0_5t range to 25.5
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-2t range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-4t range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-8t range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated shotgun-shell-slug-atomic-2t range to 25.5
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-20t range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:650: updated shotgun-shell-slug-atomic-4t range to 25.5
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-500t range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-1kt range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-15kt range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-2-stage-15kt range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-2-stage-100kt range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-2-stage-1Mt range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-2-stage-5Mt range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-2-stage-10Mt range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-2-stage-50Mt range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-2-stage-100Mt range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-atomic-2-stage-1Gt range to 51
+  22.514 Script @__heroturrets__/prototypes/scripts/types.lua:659: updated warhead-util-projectile-thermobaric-3 range to 51
+  22.802 Loading mod aai-programmable-vehicles 0.7.24 (data-final-fixes.lua)
+  22.804 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: car
+  22.804 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: vehicle-machine-gun
+  22.804 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: car valid guns: 1
+  22.804 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: car found item car
+  22.805 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: car found recipe
+  22.805 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: car found tech
+  22.805 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: car with vehicle-machine-gun
+  22.817 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: tank
+  22.817 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: tank-cannon
+  22.817 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: tank-flamethrower
+  22.818 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: tank-machine-gun
+  22.818 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: tank valid guns: 3
+  22.818 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: tank found item tank
+  22.818 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: tank found recipe
+  22.819 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: tank found tech
+  22.819 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: tank with tank-cannon
+  22.832 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: tank with tank-flamethrower
+  22.845 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: tank with tank-machine-gun
+  22.858 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: gunship
+  22.858 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: aircraft-machine-gun
+  22.858 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: aircraft-rocket-launcher
+  22.858 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: gunship valid guns: 2
+  22.858 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: gunship found item gunship
+  22.859 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: gunship found recipe
+  22.859 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: gunship found tech
+  22.859 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: gunship with aircraft-machine-gun
+  22.862 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: gunship with aircraft-rocket-launcher
+  22.864 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: cargo-plane
+  22.864 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: cargo-plane valid guns: 1
+  22.864 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: cargo-plane found item cargo-plane
+  22.864 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: cargo-plane found recipe
+  22.865 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: cargo-plane found tech
+  22.865 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: cargo-plane with 0
+  22.867 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: jet
+  22.868 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: aircraft-machine-gun
+  22.868 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: napalm-launcher
+  22.868 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: jet valid guns: 2
+  22.868 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: jet found item jet
+  22.869 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: jet found recipe
+  22.869 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: jet found tech
+  22.869 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: jet with aircraft-machine-gun
+  22.872 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: jet with napalm-launcher
+  22.875 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: flying-fortress
+  22.875 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: aircraft-cannon
+  22.875 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: flying-fortress-rocket-launcher
+  22.876 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: flying-fortress valid guns: 2
+  22.876 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: flying-fortress found item flying-fortress
+  22.876 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: flying-fortress found recipe
+  22.876 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: flying-fortress found tech
+  22.877 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: flying-fortress with aircraft-cannon
+  22.882 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: flying-fortress with flying-fortress-rocket-launcher
+  22.884 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: advanced-tank-vehicle-rampant-arsenal
+  22.885 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: advanced-tank-machine-gun-gun-rampant-arsenal
+  22.885 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: advanced-tank-cannon-gun-rampant-arsenal
+  22.885 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: advanced-tank-flamethrower-gun-rampant-arsenal
+  22.885 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: advanced-tank-launcher-gun-rampant-arsenal
+  22.885 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: advanced-tank-vehicle-rampant-arsenal valid guns: 4
+  22.886 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: advanced-tank-vehicle-rampant-arsenal found item advanced-tank-vehicle-rampant-arsenal
+  22.886 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: advanced-tank-vehicle-rampant-arsenal found recipe
+  22.887 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: advanced-tank-vehicle-rampant-arsenal found tech
+  22.887 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: advanced-tank-vehicle-rampant-arsenal with advanced-tank-machine-gun-gun-rampant-arsenal
+  22.889 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: advanced-tank-vehicle-rampant-arsenal with advanced-tank-cannon-gun-rampant-arsenal
+  22.892 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: advanced-tank-vehicle-rampant-arsenal with advanced-tank-flamethrower-gun-rampant-arsenal
+  22.894 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: advanced-tank-vehicle-rampant-arsenal with advanced-tank-launcher-gun-rampant-arsenal
+  22.897 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: nuclear-tank-vehicle-rampant-arsenal
+  22.897 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: nuclear-tank-machine-gun-gun-rampant-arsenal
+  22.897 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: nuclear-tank-cannon-gun-rampant-arsenal
+  22.897 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: nuclear-tank-flamethrower-gun-rampant-arsenal
+  22.897 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: nuclear-tank-launcher-gun-rampant-arsenal
+  22.897 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: nuclear-tank-rocket-gun-rampant-arsenal
+  22.897 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: nuclear-tank-vehicle-rampant-arsenal valid guns: 5
+  22.897 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: nuclear-tank-vehicle-rampant-arsenal found item nuclear-tank-vehicle-rampant-arsenal
+  22.898 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: nuclear-tank-vehicle-rampant-arsenal found recipe
+  22.898 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: nuclear-tank-vehicle-rampant-arsenal found tech
+  22.898 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: nuclear-tank-vehicle-rampant-arsenal with nuclear-tank-machine-gun-gun-rampant-arsenal
+  22.900 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: nuclear-tank-vehicle-rampant-arsenal with nuclear-tank-cannon-gun-rampant-arsenal
+  22.903 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: nuclear-tank-vehicle-rampant-arsenal with nuclear-tank-flamethrower-gun-rampant-arsenal
+  22.905 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: nuclear-tank-vehicle-rampant-arsenal with nuclear-tank-launcher-gun-rampant-arsenal
+  22.908 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: nuclear-tank-vehicle-rampant-arsenal with nuclear-tank-rocket-gun-rampant-arsenal
+  22.910 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: advanced-car-vehicle-rampant-arsenal
+  22.910 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: advanced-car-machine-gun-gun-rampant-arsenal
+  22.910 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: advanced-car-shotgun-gun-rampant-arsenal
+  22.910 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: advanced-car-vehicle-rampant-arsenal valid guns: 2
+  22.910 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: advanced-car-vehicle-rampant-arsenal found item advanced-car-vehicle-rampant-arsenal
+  22.911 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: advanced-car-vehicle-rampant-arsenal found recipe
+  22.911 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: advanced-car-vehicle-rampant-arsenal found tech
+  22.911 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: advanced-car-vehicle-rampant-arsenal with advanced-car-machine-gun-gun-rampant-arsenal
+  22.913 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: advanced-car-vehicle-rampant-arsenal with advanced-car-shotgun-gun-rampant-arsenal
+  22.915 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: nuclear-car-vehicle-rampant-arsenal
+  22.915 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: nuclear-car-machine-gun-gun-rampant-arsenal
+  22.915 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: nuclear-car-shotgun-gun-rampant-arsenal
+  22.915 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: nuclear-car-launcher-gun-rampant-arsenal
+  22.915 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: nuclear-car-vehicle-rampant-arsenal valid guns: 3
+  22.915 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: nuclear-car-vehicle-rampant-arsenal found item nuclear-car-vehicle-rampant-arsenal
+  22.915 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: nuclear-car-vehicle-rampant-arsenal found recipe
+  22.915 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: nuclear-car-vehicle-rampant-arsenal found tech
+  22.915 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: nuclear-car-vehicle-rampant-arsenal with nuclear-car-machine-gun-gun-rampant-arsenal
+  22.917 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: nuclear-car-vehicle-rampant-arsenal with nuclear-car-shotgun-gun-rampant-arsenal
+  22.919 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: nuclear-car-vehicle-rampant-arsenal with nuclear-car-launcher-gun-rampant-arsenal
+  22.921 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: shield-projector-barrier
+  22.921 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: shield-projector-barrier valid guns: 1
+  22.923 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: se-spaceship-obstacle-small-vehicle
+  22.923 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: se-spaceship-obstacle-small-vehicle valid guns: 1
+  22.923 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: se-spaceship-obstacle-debris-small-vehicle
+  22.923 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: se-spaceship-obstacle-debris-small-vehicle valid guns: 1
+  22.923 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: se-spaceship-obstacle-medium-vehicle
+  22.923 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: se-spaceship-obstacle-medium-vehicle valid guns: 1
+  22.924 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: se-spaceship-obstacle-debris-medium-vehicle
+  22.924 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: se-spaceship-obstacle-debris-medium-vehicle valid guns: 1
+  22.924 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: se-spaceship-obstacle-large-vehicle
+  22.924 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: se-spaceship-obstacle-large-vehicle valid guns: 1
+  22.924 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: se-spaceship-obstacle-debris-large-vehicle
+  22.924 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: se-spaceship-obstacle-debris-large-vehicle valid guns: 1
+  22.925 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: se-spaceship-travel-anchor
+  22.925 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: se-spaceship-travel-anchor valid guns: 1
+  22.925 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: se-space-shuttle
+  22.925 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: cargo-plane-machine-gun
+  22.925 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: se-space-shuttle valid guns: 1
+  22.925 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: se-space-shuttle found item se-space-shuttle
+  22.926 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: se-space-shuttle found recipe
+  22.927 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: se-space-shuttle found tech
+  22.927 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: se-space-shuttle with cargo-plane-machine-gun
+  22.929 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: spidertron
+  22.929 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: spidertron-rocket-launcher-1
+  22.929 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: spidertron-rocket-launcher-2
+  22.929 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: spidertron-rocket-launcher-3
+  22.929 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: spidertron-rocket-launcher-4
+  22.929 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: spidertron valid guns: 1
+  22.929 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:300: aai_make_ai_vehicles: spidertron found item spidertron
+  22.929 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:319: aai_make_ai_vehicles: spidertron found recipe
+  22.929 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:334: aai_make_ai_vehicles: spidertron found tech
+  22.929 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:346: aai_make_ai_vehicles ai version: spidertron with spidertron-rocket-launcher-1
+  22.932 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:264: aai_make_ai_vehicles: se-burbulator
+  22.932 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: spidertron-rocket-launcher-1
+  22.932 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: spidertron-rocket-launcher-2
+  22.932 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: spidertron-rocket-launcher-3
+  22.932 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:272: aai_make_ai_vehicles gun: spidertron-rocket-launcher-4
+  22.932 Script @__aai-programmable-vehicles__/prototypes/ai-vehicles.lua:282: aai_make_ai_vehicles: se-burbulator valid guns: 4
+  23.248 Loading mod AlienBiomesTweaked 0.0.6 (data-final-fixes.lua)
+  23.542 Loading mod LogisticTrainNetwork 1.18.3 (data-final-fixes.lua)
+  23.552 Script @__LogisticTrainNetwork__/data-final-fixes.lua:65: [LTN] found 2954 items, 46 fluids, 7 locomotives, 9 cargo wagons, 3 fluid wagons, 1 artillery wagons.
+  23.864 Loading mod space-exploration 0.6.108 (data-final-fixes.lua)
+  24.159 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: iron-ore: iron-ore
+  24.160 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: iron-ore
+  24.161 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: copper-ore: copper-ore
+  24.161 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: copper-ore
+  24.162 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: coal: coal
+  24.162 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: coal
+  24.163 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: stone: stone
+  24.163 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: stone
+  24.164 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: uranium-ore: uranium-ore
+  24.164 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: uranium-ore
+  24.165 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: crude-oil: crude-oil
+  24.166 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: crude-oil
+  24.166 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: se-water-ice: se-water-ice
+  24.167 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: se-water-ice
+  24.168 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: se-methane-ice: se-methane-ice
+  24.168 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: se-methane-ice
+  24.169 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: se-beryllium-ore: se-beryllium-ice
+  24.169 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: se-beryllium-ore
+  24.170 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: se-cryonite: se-cryonite
+  24.170 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: se-cryonite
+  24.171 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: se-holmium-ore: se-holmium-ore
+  24.171 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: se-holmium-ore
+  24.172 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: se-iridium-ore: se-iridium-ore
+  24.172 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: se-iridium-ore
+  24.173 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: se-naquium-ore: se-naquium-ore
+  24.174 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: se-naquium-ore
+  24.175 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: se-vulcanite: se-vulcanite
+  24.175 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: se-vulcanite
+  24.176 Script @__space-exploration__/prototypes/phase-3/resources.lua:26: Resource has control: se-vitamelange: se-vitamelange
+  24.176 Script @__space-exploration__/prototypes/phase-3/resources.lua:44: Resource can place: se-vitamelange
+  24.177 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep_oil
+  24.177 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep_oil
+  24.177 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-iron-ore
+  24.178 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-iron-ore
+  24.178 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-copper-ore
+  24.178 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-copper-ore
+  24.178 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-coal
+  24.178 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-coal
+  24.178 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-stone
+  24.178 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-stone
+  24.178 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-uranium-ore
+  24.178 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-uranium-ore
+  24.178 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-se-water-ice
+  24.179 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-se-water-ice
+  24.179 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-se-methane-ice
+  24.179 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-se-methane-ice
+  24.179 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-se-beryllium-ore
+  24.179 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-se-beryllium-ore
+  24.179 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-se-cryonite
+  24.179 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-se-cryonite
+  24.179 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-se-holmium-ore
+  24.180 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-se-holmium-ore
+  24.180 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-se-vulcanite
+  24.180 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-se-vulcanite
+  24.180 Script @__space-exploration__/prototypes/phase-3/resources.lua:23: Resource has no control: deep-se-vitamelange
+  24.180 Script @__space-exploration__/prototypes/phase-3/resources.lua:42: Resource cannot place: deep-se-vitamelange
+  24.539 Loading mod Warmonger 1.3.23 (data-final-fixes.lua)
+  24.876 Loading mod AircraftRealism 1.5.5 (data-final-fixes.lua)
+  25.211 Loading mod blueprint-sandboxes 1.16.3 (data-final-fixes.lua)
+  25.540 Loading mod EditorExtensions 2.1.5 (data-final-fixes.lua)
+  25.867 Loading mod extended-descriptions 1.2.1 (data-final-fixes.lua)
+  32.503 Loading mod nco-SpaceShuttle 0.0.5 (data-final-fixes.lua)
+  32.835 Loading mod RampantFixed 1.7.1 (data-final-fixes.lua)
+  33.219 Loading mod spidertron-dock 1.0.3 (data-final-fixes.lua)
+  33.615 Loading mod Water_Ores 1.1.3 (data-final-fixes.lua)
+  33.958 Loading mod dredgeworks 0.2.5 (data-final-fixes.lua)
+  34.352 Loading mod enemyracemanager 1.17.3 (data-final-fixes.lua)
+  34.685 Loading mod simple-vehicle-physics 0.0.12 (data-final-fixes.lua)
+  35.078 Loading mod space-exploration-postprocess 0.6.26 (data-final-fixes.lua)
+  36.102 Script @__space-exploration__/collision-mask-util-extended/data/collision-mask-util-extended.lua:111: Named collision layer [planet-tile] set to layer [layer-26]
+  36.482 Loading mod True-Nukes 0.3.21 (data-final-fixes.lua)
+  36.853 Loading mod BottleneckLite 1.2.7 (data-final-fixes.lua)
+  37.190 Loading mod osm-radioactivity 1.1.41 (data-final-fixes.lua)
+  37.779 Loading mod RealisticReactors 3.1.4 (data-final-fixes.lua)
+  38.180 Loading mod osm-lib-postprocess 23.1.10 (data-final-fixes.lua)
+  43.965 Script @__osm-lib-postprocess__/data-core.lua:1021: ----------------------------------------------------------------------
+  43.970 Script @__osm-lib-postprocess__/data-core.lua:1022: --- Initialize OSM-Lib Post Process data stage...
+  43.970 Script @__osm-lib-postprocess__/data-core.lua:1023: ----------------------------------------------------------------------
+  43.971 Script @__osm-lib-postprocess__/data-core.lua:1027: Info: dictionary length: 195 matches data length: 195, OK!
+  43.971 Script @__osm-lib-postprocess__/data-core.lua:1035: ----------------------------------------------------------------------
+  46.506 Checksum for core: 1996978587
+  46.507 Checksum of base: 4153197346
+  46.507 Checksum of simhelper: 0
+  46.507 Checksum of VehicleSnap: 726116391
+  46.507 Checksum of WireShortcuts: 2451067895
+  46.507 Checksum of aai-containers: 1646518613
+  46.507 Checksum of aai-signal-transmission: 694719243
+  46.507 Checksum of aai-signals: 3732766133
+  46.507 Checksum of aai-zones: 764660141
+  46.507 Checksum of AbandonedRuins: 3265718031
+  46.507 Checksum of Aircraft: 401792800
+  46.507 Checksum of alien-biomes-hr-terrain: 2010945986
+  46.507 Checksum of Arachnids: 1974092555
+  46.507 Checksum of Armored-train: 3491505155
+  46.507 Checksum of AutoDeconstruct: 3945635919
+  46.507 Checksum of big-data-string: 0
+  46.507 Checksum of biterexpansionnotifier: 1683202047
+  46.507 Checksum of Brighter-Lamps: 2788614869
+  46.507 Checksum of bullet-trails: 3735931065
+  46.507 Checksum of cargo-ships-graphics: 0
+  46.507 Checksum of ChangeMapSettings: 3179762092
+  46.507 Checksum of death_curses: 4283470817
+  46.507 Checksum of EnableResearchQueue: 0
+  46.507 Checksum of enemyracemanager_assets: 1947108878
+  46.508 Checksum of Enhanced_Map_Colors: 2077545413
+  46.508 Checksum of even-distribution: 3296431338
+  46.508 Checksum of factoriohd_modpack: 0
+  46.508 Checksum of flib: 574468295
+  46.508 Checksum of Fluid-level-indicator: 1986171474
+  46.508 Checksum of grappling-gun: 849742706
+  46.508 Checksum of Gun_Turret_Alerts: 115425204
+  46.508 Checksum of HelicopterRevival: 862173934
+  46.508 Checksum of informatron: 3677685015
+  46.508 Checksum of jetpack: 705397686
+  46.508 Checksum of liborio: 4218430347
+  46.508 Checksum of MiscLib: 0
+  46.508 Checksum of ModuleInserterSimplified: 675750096
+  46.508 Checksum of Nuclear Fuel: 250117647
+  46.508 Checksum of osm-lib: 53806566
+  46.508 Checksum of RampantArsenal: 3236405200
+  46.508 Checksum of RealisticOres: 64431651
+  46.508 Checksum of RealisticReactorGlow: 2271850621
+  46.508 Checksum of robot_attrition: 3717203635
+  46.508 Checksum of shield-projector: 1559000050
+  46.508 Checksum of SolarWalls: 2691867410
+  46.508 Checksum of space-exploration-graphics: 0
+  46.508 Checksum of space-exploration-graphics-2: 0
+  46.508 Checksum of space-exploration-graphics-3: 0
+  46.508 Checksum of space-exploration-graphics-4: 0
+  46.508 Checksum of space-exploration-graphics-5: 0
+  46.508 Checksum of space-exploration-menu-simulations: 1283024780
+  46.508 Checksum of Squeak Through: 2759453103
+  46.508 Checksum of stdlib: 0
+  46.508 Checksum of textplates: 1728524371
+  46.508 Checksum of Todo-List: 2292775673
+  46.508 Checksum of TreeSaplings-Redux: 621973909
+  46.508 Checksum of underwater-pipes: 469044210
+  46.508 Checksum of whats-missing: 2424954139
+  46.508 Checksum of aai-industry: 1831432187
+  46.508 Checksum of aai-programmable-structures: 2922343567
+  46.508 Checksum of alien-biomes: 2464969055
+  46.508 Checksum of BeltRouter: 3540184382
+  46.508 Checksum of cargo-ships: 1905650641
+  46.508 Checksum of combat-mechanics-overhaul: 1819902836
+  46.508 Checksum of DiscoScience: 1542355472
+  46.508 Checksum of equipment-gantry: 3031703972
+  46.508 Checksum of factorio-research-queue: 1283674761
+  46.508 Checksum of heroturrets: 474940010
+  46.508 Checksum of KS_Combat_Updated: 3654578860
+  46.509 Checksum of Milestones: 308211693
+  46.509 Checksum of PickerDollies: 455736647
+  46.509 Checksum of RateCalculator: 1784672733
+  46.509 Checksum of RecipeBook: 1162742618
+  46.509 Checksum of Silly-AbandonedRuins: 137628107
+  46.509 Checksum of aai-programmable-vehicles: 1895866223
+  46.509 Checksum of AlienBiomesTweaked: 4238215436
+  46.509 Checksum of ArmouredBiters: 4256880172
+  46.509 Checksum of cargo-ships-nofreepower: 724266976
+  46.509 Checksum of Cold_biters: 1770261198
+  46.509 Checksum of Dirt_Path: 22455424
+  46.509 Checksum of factoryplanner: 1777535883
+  46.509 Checksum of LogisticTrainNetwork: 2003910812
+  46.509 Checksum of space-exploration: 3094519914
+  46.509 Checksum of Toxic_biters: 172459689
+  46.509 Checksum of Warmonger: 2987091965
+  46.509 Checksum of AircraftRealism: 47846919
+  46.509 Checksum of blueprint-sandboxes: 2599266631
+  46.509 Checksum of Creeper2: 2977623470
+  46.509 Checksum of EditorExtensions: 3015416784
+  46.509 Checksum of Explosive_biters: 2497311500
+  46.509 Checksum of extended-descriptions: 1040716627
+  46.509 Checksum of nco-SpaceShuttle: 3764050321
+  46.509 Checksum of qol_research: 1237902567
+  46.509 Checksum of RampantFixed: 2548693291
+  46.509 Checksum of se-ltn-glue: 550323218
+  46.509 Checksum of spidertron-dock: 818403813
+  46.509 Checksum of Warheads: 3464910350
+  46.509 Checksum of Water_Ores: 4039098010
+  46.509 Checksum of dredgeworks: 3381427696
+  46.509 Checksum of enemyracemanager: 4019901282
+  46.509 Checksum of simple-vehicle-physics: 1385627547
+  46.509 Checksum of space-exploration-postprocess: 1055654810
+  46.509 Checksum of True-Nukes: 1804235186
+  46.509 Checksum of BottleneckLite: 2085057785
+  46.509 Checksum of erm_redarmy: 2962271126
+  46.509 Checksum of erm_zerg_high_res: 2504894247
+  46.509 Checksum of GUI_Unifyer: 853165276
+  46.509 Checksum of osm-radioactivity: 431689027
+  46.510 Checksum of RealisticReactors: 3547375056
+  46.510 Checksum of zerm_postprocess: 0
+  46.510 Checksum of Realistic_Heat_Glow: 3110137781
+  46.510 Checksum of osm-lib-postprocess: 1723955785
+  58.615 Prototype list checksum: 27457542
+  79.946 Info PlayerData.cpp:76: Local player-data.json available, timestamp 1689541138
+  79.947 Info PlayerData.cpp:83: Cloud player-data.json unavailable
+  80.026 Factorio initialised
+  80.036 Info ServerSynchronizer.cpp:29: nextHeartbeatSequenceNumber(0) initialized Synchronizer nextTickClosureTick(0).
+  80.037 Info ServerMultiplayerManager.cpp:813: updateTick(4294967295) changing state from(Ready) to(PreparedToHostGame)
+  80.037 Info ServerMultiplayerManager.cpp:813: updateTick(4294967295) changing state from(PreparedToHostGame) to(CreatingGame)
+  80.053 Loading map /opt/factorio/saves/crucifixion.zip: 4381398 bytes.
+  80.093 Loading level.dat: 18926197 bytes.
+  80.105 Info Scenario.cpp:204: Map version 1.1.87-0
+  82.238 Loading script.dat: 13200587 bytes.
+  82.257 Checksum for script /opt/factorio/temp/currently-playing/control.lua: 3702463597
+  82.258 Checksum for script __VehicleSnap__/control.lua: 4191411753
+  82.260 Checksum for script __WireShortcuts__/control.lua: 2186858157
+  82.262 Checksum for script __aai-signal-transmission__/control.lua: 3906372546
+  82.264 Checksum for script __aai-zones__/control.lua: 1868523975
+  82.310 Checksum for script __AbandonedRuins__/control.lua: 3278931932
+  82.319 Checksum for script __Armored-train__/control.lua: 4211412454
+  82.321 Checksum for script __AutoDeconstruct__/control.lua: 384256076
+  82.324 Checksum for script __biterexpansionnotifier__/control.lua: 76571758
+  82.328 Checksum for script __ChangeMapSettings__/control.lua: 3342650463
+  82.333 Checksum for script __death_curses__/control.lua: 3694687056
+  82.334 Checksum for script __EnableResearchQueue__/control.lua: 3369062908
+  82.343 Checksum for script __Enhanced_Map_Colors__/control.lua: 3239044234
+  82.356 Script @__even-distribution__/framework.lua:72: 0 [ED] Initializing framework... DEBUG = false
+  82.356 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom scripts...
+  82.356 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: metatables
+  82.357 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: util
+  82.359 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: helpers
+  82.360 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: setup
+  82.361 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: remote
+  82.361 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: visuals
+  82.361 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: gui-tools
+  82.361 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: drag
+  82.362 Script @__even-distribution__/framework.lua:72: 0 [ED] Script: cleanup
+  82.365 Script @__even-distribution__/framework.lua:72: 0 [ED] GUI-Script: settings-gui
+  82.366 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering default event handlers...
+  82.366 Script @__even-distribution__/framework.lua:72: 0 [ED] Registering custom inputs...
+  82.366 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+  82.366 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+  82.366 Script @__even-distribution__/framework.lua:72: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+  82.367 Script @__even-distribution__/framework.lua:72: 0 [ED] Successfully initialized
+  82.367 Checksum for script __even-distribution__/control.lua: 850894597
+  82.371 Checksum for script __Fluid-level-indicator__/control.lua: 3381158851
+  82.373 Checksum for script __grappling-gun__/control.lua: 1677303540
+  82.376 Checksum for script __Gun_Turret_Alerts__/control.lua: 2578672362
+  82.394 Checksum for script __HelicopterRevival__/control.lua: 4243349421
+  82.399 Checksum for script __informatron__/control.lua: 2245850782
+  82.404 Checksum for script __jetpack__/control.lua: 3267964590
+  82.409 Script @__liborio__/control.lua:1: LIBORIO CONTROL
+  82.409 Script @__liborio__/prototypes/scripts/util.lua:1: LIBORIO UTIL
+  82.410 Script @__liborio__/prototypes/scripts/sharedutil.lua:1: LIBORIO SHAREDUTIL
+  82.410 Script @__liborio__/prototypes/scripts/utilcontrol.lua:1: LIBORIO UTILCONTROL
+  82.410 Checksum for script __liborio__/control.lua: 3608142760
+  82.417 Checksum for script __ModuleInserterSimplified__/control.lua: 3615260394
+  82.418 Checksum for script __Nuclear Fuel__/control.lua: 2013699459
+  82.421 Checksum for script __RampantArsenal__/control.lua: 2321295504
+  82.422 Checksum for script __RealisticOres__/control.lua: 3613127701
+  82.424 Checksum for script __robot_attrition__/control.lua: 3576548156
+  82.432 Checksum for script __shield-projector__/control.lua: 2583582067
+  82.433 Checksum for script __SolarWalls__/control.lua: 99325951
+  82.434 Checksum for script __space-exploration-graphics-4__/control.lua: 17466373
+  82.437 Checksum for script __textplates__/control.lua: 643277855
+  82.446 Checksum for script __Todo-List__/control.lua: 2884874506
+  82.454 Checksum for script __TreeSaplings-Redux__/control.lua: 1594232185
+  82.455 Checksum for script __underwater-pipes__/control.lua: 3002882644
+  82.457 Checksum for script __whats-missing__/control.lua: 2938227335
+  82.461 Checksum for script __aai-industry__/control.lua: 550087654
+  82.468 Checksum for script __aai-programmable-structures__/control.lua: 1909028456
+  82.470 Checksum for script __alien-biomes__/control.lua: 1814481397
+  82.481 Checksum for script __BeltRouter__/control.lua: 4249052143
+  82.489 Checksum for script __cargo-ships__/control.lua: 2186396915
+  82.491 Checksum for script __combat-mechanics-overhaul__/control.lua: 2672313821
+  82.512 Checksum for script __DiscoScience__/control.lua: 3734133783
+  82.515 Checksum for script __equipment-gantry__/control.lua: 525186582
+  82.523 Checksum for script __factorio-research-queue__/control.lua: 361492370
+  82.531 Script @__heroturrets__/control.lua:1: Entering control.lua
+  82.531 Script @__liborio__/prototypes/scripts/util.lua:1: LIBORIO UTIL
+  82.532 Script @__liborio__/prototypes/scripts/sharedutil.lua:1: LIBORIO SHAREDUTIL
+  82.532 Script @__liborio__/prototypes/scripts/utilcontrol.lua:1: LIBORIO UTILCONTROL
+  82.533 Script @__heroturrets__/prototypes/scripts/turrets.lua:1: turrets.lua
+  82.533 Script @__heroturrets__/control.lua:116: Registering spawned event
+  82.533 Script @__heroturrets__/control.lua:133: Registering removed event
+  82.533 Script @__heroturrets__/control.lua:137: Registering post entity died event
+  82.533 Checksum for script __heroturrets__/control.lua: 4127159692
+  82.548 Checksum for script __Milestones__/control.lua: 4087474827
+  82.568 Checksum for script __PickerDollies__/control.lua: 1985831788
+  82.579 Checksum for script __RateCalculator__/control.lua: 3098607697
+  82.601 Checksum for script __RecipeBook__/control.lua: 3996815689
+  82.632 Checksum for script __Silly-AbandonedRuins__/control.lua: 3542578575
+  82.656 Checksum for script __aai-programmable-vehicles__/control.lua: 163598781
+  82.662 Checksum for script __Cold_biters__/control.lua: 2079143682
+  82.663 Checksum for script __Dirt_Path__/control.lua: 2100406504
+  82.707 Checksum for script __factoryplanner__/control.lua: 2968515215
+  82.721 Checksum for script __LogisticTrainNetwork__/control.lua: 2310901153
+  82.962 Checksum for script __space-exploration__/control.lua: 3458802095
+  82.964 Checksum for script __Toxic_biters__/control.lua: 1235351243
+  82.972 Checksum for script __Warmonger__/control.lua: 239391125
+  82.980 Checksum for script __AircraftRealism__/control.lua: 3044413137
+  82.990 Checksum for script __blueprint-sandboxes__/control.lua: 2039600922
+  82.993 Checksum for script __Creeper2__/control.lua: 636590815
+  83.013 Checksum for script __EditorExtensions__/control.lua: 835346212
+  83.026 Checksum for script __Explosive_biters__/control.lua: 3324585601
+  83.027 Checksum for script __nco-SpaceShuttle__/control.lua: 183330479
+  83.029 Checksum for script __qol_research__/control.lua: 967471402
+  83.068 Checksum for script __RampantFixed__/control.lua: 3979341089
+  83.071 Checksum for script __se-ltn-glue__/control.lua: 2555148600
+  83.082 Checksum for script __spidertron-dock__/control.lua: 4066178609
+  83.084 Checksum for script __dredgeworks__/control.lua: 741746647
+  83.128 Checksum for script __enemyracemanager__/control.lua: 2742819474
+  83.129 Checksum for script __simple-vehicle-physics__/control.lua: 2815890875
+  83.133 Checksum for script __space-exploration-postprocess__/control.lua: 1572291256
+  83.145 Checksum for script __True-Nukes__/control.lua: 2616165236
+  83.159 Checksum for script __erm_redarmy__/control.lua: 1144031365
+  83.177 Checksum for script __erm_zerg_high_res__/control.lua: 1659473977
+  83.185 Checksum for script __GUI_Unifyer__/control.lua: 2611964224
+  83.189 Checksum for script __osm-radioactivity__/control.lua: 230968274
+  83.203 Checksum for script __RealisticReactors__/control.lua: 848910107
+  83.211 Checksum for script __zerm_postprocess__/control.lua: 3411952729
+  83.218 Checksum for script __osm-lib-postprocess__/control.lua: 2111118247
+  83.971 Script @__cargo-ships__/control.lua:426: cargo ships on_load
+  84.008 Script @__heroturrets__/control.lua:328: control.on_load
+  86.362 Script @__dredgeworks__/control.lua:9: dredgeworks: preparing ore submersion
+  86.683 Info UDPSocket.cpp:33: Opening socket at (IP ADDR:({0.0.0.0:34197}))
+  86.687 Hosting game at IP ADDR:({0.0.0.0:34197})
+  86.687 Info ServerMultiplayerManager.cpp:813: updateTick(211) changing state from(CreatingGame) to(InGame)
+  86.689 Info UDPSocket.cpp:45: Opening socket for broadcast
+  86.696 Info CommandLineMultiplayer.cpp:297: Maximum segment size = 100; minimum segment size = 25; maximum-segment-size peer count = 10; minimum-segment-size peer count = 20
+  90.870 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({73.239.75.158:53087}))
+  90.891 Refusing connection for address (IP ADDR:({73.239.75.158:53087})), username (Nukelord). PasswordMissing
+  94.394 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({73.239.75.158:54815}))
+  94.397 Info ServerRouter.cpp:465: Replying to connectionRequest for address(IP ADDR:({73.239.75.158:54815})).
+  94.400 Info ServerSynchronizer.cpp:604: nextHeartbeatSequenceNumber(459) adding peer(1)
+  94.408 Info ServerMultiplayerManager.cpp:813: updateTick(211) changing state from(InGame) to(InGameSavingMap)
+  94.698 Info ServerMultiplayerManager.cpp:962: updateTick(211) received stateChanged peerID(1) oldState(Ready) newState(ConnectedWaitingForMap)
+  95.458 Info ServerMultiplayerManager.cpp:1023: UpdateTick(211) Serving map(/opt/factorio/temp/mp-save-0.zip) for peer(1) size(3970544) auxiliary(132) crc(645612751)
+  95.460 Info ServerMultiplayerManager.cpp:813: updateTick(211) changing state from(InGameSavingMap) to(InGame)
+  95.698 Info ServerMultiplayerManager.cpp:962: updateTick(211) received stateChanged peerID(1) oldState(ConnectedWaitingForMap) newState(ConnectedDownloadingMap)
+  97.781 Info ServerMultiplayerManager.cpp:962: updateTick(211) received stateChanged peerID(1) oldState(ConnectedDownloadingMap) newState(ConnectedLoadingMap)
+  97.810 Script @__heroturrets__/control.lua:470: control.local_on_start
+  98.285 Script @__Milestones__/scripts/util.lua:49: Printing delayed chat
+  99.381 Info ServerMultiplayerManager.cpp:962: updateTick(306) received stateChanged peerID(1) oldState(ConnectedLoadingMap) newState(TryingToCatchUp)
+  99.514 Info ServerMultiplayerManager.cpp:962: updateTick(314) received stateChanged peerID(1) oldState(TryingToCatchUp) newState(WaitingForCommandToStartSendingTickClosures)
+  99.516 Info GameActionHandler.cpp:5077: UpdateTick (314) processed PlayerJoinGame peerID(1) playerIndex(0) mode(connect) 
+  99.748 Info ServerMultiplayerManager.cpp:962: updateTick(328) received stateChanged peerID(1) oldState(WaitingForCommandToStartSendingTickClosures) newState(InGame)
+ 392.738 Script @__cargo-ships__/logic/oil_placement.lua:42: nauvis: Consolidated 2 crude-oil into deep_oil amount=448208 in WATER chunk [347.5, 57.5]
+ 393.803 Script @__cargo-ships__/logic/oil_placement.lua:42: nauvis: Consolidated 3 crude-oil into deep_oil amount=947428 in WATER chunk [334.833, 77.1667]
+ 758.027 Script @__robot_attrition__/control.lua:269: bot_remnants_set: {}
+1014.883 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({10.66.66.3:34150}))
+1014.889 Refusing connection for address (IP ADDR:({10.66.66.3:34150})), username (mahan). ModsMismatch
+1089.622 Script @__cargo-ships__/logic/oil_placement.lua:55: nauvis: Deleted 3 of 3 crude-oil in LAND chunk [5, 14]
+1090.687 Script @__cargo-ships__/logic/oil_placement.lua:42: nauvis: Consolidated 1 crude-oil into deep_oil amount=269823 in WATER chunk [156.5, 461.5]
+1193.087 Script @__cargo-ships__/logic/oil_placement.lua:55: nauvis: Deleted 2 of 2 crude-oil in LAND chunk [5, 15]
+1294.981 Info AppManager.cpp:318: Saving to _autosave1 (blocking).
+1296.231 Info AppManagerStates.cpp:2007: Saving finished
+1320.182 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({10.66.66.3:59753}))
+1320.184 Info ServerRouter.cpp:465: Replying to connectionRequest for address(IP ADDR:({10.66.66.3:59753})).
+1320.185 Info ServerSynchronizer.cpp:604: nextHeartbeatSequenceNumber(73915) adding peer(2)
+1320.198 Info ServerMultiplayerManager.cpp:813: updateTick(73440) changing state from(InGame) to(InGameSavingMap)
+1321.218 Info ServerMultiplayerManager.cpp:1023: UpdateTick(73440) Serving map(/opt/factorio/temp/mp-save-1.zip) for peer(2) size(5038399) auxiliary(132) crc(2198641405)
+1321.219 Info ServerMultiplayerManager.cpp:813: updateTick(73440) changing state from(InGameSavingMap) to(InGame)
+1324.114 Info ServerMultiplayerManager.cpp:962: updateTick(73614) received stateChanged peerID(2) oldState(Ready) newState(ConnectedWaitingForMap)
+1324.115 Info ServerMultiplayerManager.cpp:962: updateTick(73614) received stateChanged peerID(2) oldState(ConnectedWaitingForMap) newState(ConnectedDownloadingMap)
+1337.431 Info ServerMultiplayerManager.cpp:962: updateTick(74413) received stateChanged peerID(2) oldState(ConnectedDownloadingMap) newState(ConnectedLoadingMap)
+1351.031 Info ServerMultiplayerManager.cpp:962: updateTick(75229) received stateChanged peerID(2) oldState(ConnectedLoadingMap) newState(TryingToCatchUp)
+1373.948 Info ServerMultiplayerManager.cpp:962: updateTick(76604) received stateChanged peerID(2) oldState(TryingToCatchUp) newState(WaitingForCommandToStartSendingTickClosures)
+1373.952 Info GameActionHandler.cpp:5077: UpdateTick (76604) processed PlayerJoinGame peerID(2) playerIndex(1) mode(create) 
+1373.982 Script @__even-distribution__/framework.lua:72: 76604 [ED] Player (mahan) settings migrated from none to 1.0.0
+1373.982 Script @__even-distribution__/framework.lua:72: 76604 [ED] Player (mahan) settings migrated from 1.0.0 to 1.0.2
+1373.983 Script @__even-distribution__/framework.lua:72: 76604 [ED] Player (mahan) settings migrated from 1.0.2 to 1.0.3
+1373.983 Script @__even-distribution__/framework.lua:72: 76604 [ED] Player (mahan) settings migrated from 1.0.3 to 1.0.8
+1377.006 Script @__blueprint-sandboxes__/control.lua:43: on_player_created index: 2
+1377.006 Script @__blueprint-sandboxes__/scripts/force.lua:38: Skip Force.Init: player
+1377.007 Script @__blueprint-sandboxes__/scripts/init.lua:11: Init.Player: mahan
+1377.214 Info ServerMultiplayerManager.cpp:962: updateTick(76620) received stateChanged peerID(2) oldState(WaitingForCommandToStartSendingTickClosures) newState(InGame)
+1551.426 Script @__cargo-ships__/logic/oil_placement.lua:55: nauvis: Deleted 0 of 1 crude-oil in LAND chunk [20, -2]
+2501.765 Info AppManager.cpp:318: Saving to _autosave2 (blocking).
+2503.036 Info AppManagerStates.cpp:2007: Saving finished
+3115.772 Script @__heroturrets__/prototypes/scripts/turrets.lua:161: {
+  50,
+  250,
+  500,
+  5000
+}
+3705.419 Info AppManager.cpp:318: Saving to _autosave3 (blocking).
+3706.864 Info AppManagerStates.cpp:2007: Saving finished
+4907.948 Info AppManager.cpp:318: Saving to _autosave4 (blocking).
+4909.138 Info AppManagerStates.cpp:2007: Saving finished
+5274.798 Info ServerMultiplayerManager.cpp:1076: Disconnect notification for peer (2)
+5274.799 Info ServerMultiplayerManager.cpp:962: updateTick(309942) received stateChanged peerID(2) oldState(InGame) newState(DisconnectScheduled)
+5274.802 Info ServerSynchronizer.cpp:623: nextHeartbeatSequenceNumber(310460) removing peer(2).
+5398.948 Info ServerMultiplayerManager.cpp:1076: Disconnect notification for peer (1)
+5398.948 Info ServerMultiplayerManager.cpp:962: updateTick(317391) received stateChanged peerID(1) oldState(InGame) newState(DisconnectScheduled)
+5398.950 Info ServerSynchronizer.cpp:623: nextHeartbeatSequenceNumber(317909) removing peer(1).
+5399.948 Info ServerMultiplayerManager.cpp:1223: Auto saving map as /opt/factorio/saves/crucifixion.zip
+5399.965 Info AppManager.cpp:432: Saving game as /opt/factorio/saves/crucifixion.zip
+5401.230 Info AppManagerStates.cpp:2007: Saving finished
+10689.398 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({73.239.75.158:59179}))
+10689.411 Info ServerRouter.cpp:465: Replying to connectionRequest for address(IP ADDR:({73.239.75.158:59179})).
+10689.412 Info ServerSynchronizer.cpp:604: nextHeartbeatSequenceNumber(635290) adding peer(3)
+10689.428 Info ServerMultiplayerManager.cpp:813: updateTick(317392) changing state from(InGame) to(InGameSavingMap)
+10689.714 Info ServerMultiplayerManager.cpp:962: updateTick(317392) received stateChanged peerID(3) oldState(Ready) newState(ConnectedWaitingForMap)
+10690.672 Info ServerMultiplayerManager.cpp:1023: UpdateTick(317392) Serving map(/opt/factorio/temp/mp-save-2.zip) for peer(3) size(6166154) auxiliary(132) crc(3783027151)
+10690.674 Info ServerMultiplayerManager.cpp:813: updateTick(317392) changing state from(InGameSavingMap) to(InGame)
+10690.931 Info ServerMultiplayerManager.cpp:962: updateTick(317392) received stateChanged peerID(3) oldState(ConnectedWaitingForMap) newState(ConnectedDownloadingMap)
+10693.747 Info ServerMultiplayerManager.cpp:962: updateTick(317392) received stateChanged peerID(3) oldState(ConnectedDownloadingMap) newState(ConnectedLoadingMap)
+10695.581 Info ServerMultiplayerManager.cpp:962: updateTick(317501) received stateChanged peerID(3) oldState(ConnectedLoadingMap) newState(TryingToCatchUp)
+10695.747 Info ServerMultiplayerManager.cpp:962: updateTick(317511) received stateChanged peerID(3) oldState(TryingToCatchUp) newState(WaitingForCommandToStartSendingTickClosures)
+10695.749 Info GameActionHandler.cpp:5077: UpdateTick (317511) processed PlayerJoinGame peerID(3) playerIndex(0) mode(connect) 
+10695.997 Info ServerMultiplayerManager.cpp:962: updateTick(317526) received stateChanged peerID(3) oldState(WaitingForCommandToStartSendingTickClosures) newState(InGame)
+10767.164 Info ServerMultiplayerManager.cpp:1076: Disconnect notification for peer (3)
+10767.164 Info ServerMultiplayerManager.cpp:962: updateTick(321792) received stateChanged peerID(3) oldState(InGame) newState(DisconnectScheduled)
+10767.165 Info ServerSynchronizer.cpp:623: nextHeartbeatSequenceNumber(639941) removing peer(3).
+10768.164 Info ServerMultiplayerManager.cpp:1223: Auto saving map as /opt/factorio/saves/crucifixion.zip
+10768.181 Info AppManager.cpp:432: Saving game as /opt/factorio/saves/crucifixion.zip
+10769.259 Info AppManagerStates.cpp:2007: Saving finished
+32018.523 Error InterruptibleStdioStream.cpp:61: Got EOF on stdin; closing
+32018.535 Received SIGHUP, shutting down
+32018.536 Received SIGHUP, shutting down
+32018.536 Quitting: signal.
+32018.536 Info MainLoop.cpp:446: Saving map as /opt/factorio/saves/crucifixion.zip
+32020.594 Info MainLoop.cpp:457: Saving progress: 0.036271%
+32020.716 Info MainLoop.cpp:457: Saving progress: 100.000000%
+32020.956 Info ServerMultiplayerManager.cpp:127: Disconnecting multiplayer connection.
+32020.956 Info ServerMultiplayerManager.cpp:813: updateTick(321793) changing state from(InGame) to(DisconnectingScheduled)
+32020.990 Info ServerMultiplayerManager.cpp:813: updateTick(321793) changing state from(DisconnectingScheduled) to(Disconnecting)
+32021.023 Info ServerMultiplayerManager.cpp:813: updateTick(321793) changing state from(Disconnecting) to(Disconnected)
+32021.023 Info ServerMultiplayerManager.cpp:154: Quitting multiplayer connection.
+32021.023 Info ServerMultiplayerManager.cpp:813: updateTick(321793) changing state from(Disconnected) to(Closed)
+32024.233 Info UDPSocket.cpp:233: Closing socket
+32024.234 Info UDPSocket.cpp:263: Socket closed
+32024.234 Info UDPSocket.cpp:233: Closing socket
+32024.668 Info UDPSocket.cpp:233: Closing socket
+32024.668 Info UDPSocket.cpp:263: Socket closed
+32061.471 Goodbye

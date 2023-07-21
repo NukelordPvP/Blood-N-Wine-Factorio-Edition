@@ -1,0 +1,50 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.83
+  Features:
+    - Added keyboard and mouse support. Change input method in Settings->Controls to play using keyboard and mouse.
+  Minor Features:
+    - Added stick sensitivity setting.
+    - Added ability to quickly swap A and B buttons.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.82
+  Bugfixes:
+    - Reduced the number of crashes for players with very large saves running low on memory.
+    - Improved the latency of selecting entities in multiplayer.
+    - General bugfixes and improvements
+---------------------------------------------------------------------------------------------------
+Version: 1.1.80
+  Bugfixes:
+    - General bugfixes and improvements
+---------------------------------------------------------------------------------------------------
+Version: 1.1.76
+  Minor Features:
+    - Added vibration intensity setting to the control settings screen.
+    - Added absolute vehicle control mode as a setting in the control settings screen.
+    - Added option to enable predictive text for the on-screen keyboard. Enabling this also allows entering Chinese and Korean text and Japanese kanji characters.
+  Changes:
+    - When in free cursor mode with a GUI open, Left Stick will also move the cursor.    
+    - When in free cursor mode with Quick panel open, Left Stick will navigate the Quick panel normally.
+  Bugfixes:
+    - Fixed the cursor in the world map moving twice as fast in free cursor mode.
+    - Fixed GUI navigation getting stuck on AND/OR buttons in the locomotive GUI.
+    - Fixed GUI navigation navigating to empty technology slots in research queue.
+    - Fixed GUI navigation sometimes getting stuck when navigating large technology trees.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.74
+  Minor Features:
+    - Added option in Settings->Other to set an email and password to the account, so it can be used on other platforms or consoles.
+    - Added Danish localization
+  Bugfixes:
+    - Fixed crash when creating extremely long belts.
+    - Fixed crash when a textbox disappears while the on screen keyboard is still open.
+    - Fixed crash when exiting the game while a new map is being created.
+    - Fixed crash sometimes when transferring all items from character corpse.
+    - Fixed another crash when trying to save with a long save file name    
+---------------------------------------------------------------------------------------------------
+Version: 1.1.72
+  Bugfixes:
+    - Fixed crash when exiting the level while Quick Panel is open.
+    - Fixed crash when dying while Quick Panel is open.
+    - Fixed crash when trying to save with a long save file name
+    - Fixed that you could not map controller sticks in the control settings gui.
+    - Fixed memory leak related to OpenGL textures, affecting mostly main menu background simulations.    
