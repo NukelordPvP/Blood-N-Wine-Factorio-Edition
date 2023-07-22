@@ -1,11 +1,11 @@
 {
     "name": "Blood-N-Wine-Factorio-Edition",
-    "version": "6.1.1",
+    "version": "6.1.5",
     "title": "Blood N Wine Factorio Edition",
     "author": "Nukelord and Mahan",
     "factorio_version": "1.1",
     "dependencies": [
-		"base >= 1.1.89",
+		"base >= 1.1.88",
 		"aai-containers >= 0.2.11",
 		"aai-industry >= 0.5.20",
 		"aai-programmable-structures >= 0.7.4",
